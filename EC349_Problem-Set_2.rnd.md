@@ -5,7 +5,7 @@ Love Idahosa
 
 #### Instruction:
 
-1.  Create an R Markdown document
+1.  Create a R Markdown document
 2.  Follow [this link](https://www.markdownguide.org/basic-syntax/) for
     help with basic R syntax OR copy and past this URL in your browser:
     <https://www.markdownguide.org/basic-syntax/>
@@ -28,68 +28,70 @@ Complete the following:
 > 1.  Write your name and surname in bold font, with your Name ONLY in
 >     italics.
 
-***Name*** **Surname**
+    Answer Below
 
 > 2.  Print your student number and what year you are in on different
 >     lines.
 
-**Answer Below**
+    Answer Below
 
-> 2.  Briefly state why you are doing this Data Science Module
+> 3.  Briefly state, in italics, why you are doing this Data Science
+>     Module
 
-I want to be able to analyse economic data in R.
+    Answer Below
 
-> 3.  Make an unordered list of at least 3 things you have learned in
+> 4.  Make an unordered list of at least 3 things you have learned in
 >     this module.
 
-- I have learned to do basic coding in R
-- I have learned about version control and to create a GitHub account
-- I have learned to link GitHub to RStudio
+    Answer Below
 
-**Answer Below**
-
-> 4.  Create a table showing the 1st 5 stages of the John Rollins
+> 5.  Create a table showing the 1st 5 stages of the John Rollins
 >     General Data Science Methodology and the quetions associate with
 >     them.
 
-**Answer Below**
+    Answer Below
 
-> 5.  Create an ordered list of at least 3 other Data Science
+> 6.  Create an ordered list of at least 3 other Data Science
 >     methodologies.
 
-**Answer Below**
+    Answer Below
 
-> 6.  List the weaknesses of the CRISP-DM methodology and how to address
->     them
+> 7.  Provide and ordered list the weaknesses of the CRISP-DM
+>     methodology and how to address them
 
-**Answer Below**
+    Answer Below
 
-> 7.  Download and include a University of Warwick Logo.
+> 8.  Download and include a University of Warwick Logo in your
+>     document.
 
-> 8.  Look up the help documentation for the function rep(). Use this
->     function to create the following 3 vectors.
+    Answer Below
 
-- \[1\] 0 0 0 0 0
-- \[1\] 1 2 3 1 2 3 1 2 3 1 2 3
-- \[1\] 4 5 5 6 6 6
+> 9.  Write and execute a code to randomly generate 10 numbers from a
+>     normal distribution with mean 12 and standard deviation 3.
 
-**Answer Below**
+    Answer Below
 
-> 9.  Explain what is the problem in each line of code below. Fix the
->     code so it will run properly.
+> 10. Write and execute a code to calculate the mean of 12 random
+>     numbers generated from the intervalof integes from 5 to 25.
 
-- my variable \<- 3
-- seq(1, 10 by = 2)
-- Library(cars)
+    Answer Below
 
-**Answer Below**
+> 11. Write and execute a code to create a scatter plot containing 12
+>     points whose coordinates were randomly geenrated in the interval 5
+>     to 25. Provide a title for the figure, label the x and y axis.
 
-> 10. Load the mtcars dataset by using the code data(mtcars). Find the
->     minimum, mean, median and maximum of the variable mpg in the
->     mtcars dataset using just one line of code. We have not covered a
->     function that does this yet, so the main point of this question is
->     to get you used to using the resources you have available to find
->     an answer. Describe the process you used (searched online? use the
->     class textbook?) to find the answer.
+    Answer Below
 
-**Answer Below**
+> 12. Write and execute a code to create a function to calculate
+>     standard error. Then, calculate the standard error of a set of 15
+>     randomly generated numbers from a normal distribution with mean 12
+>     and standard deviation 3.
+
+    Answer Below
+
+> 13. Given that BMI=kg/m2, where kg is the person’s weight in kilograms
+>     and m2is height in meters squared, write and execute a code to
+>     create a function that calculates the BMI of who weighs 85kg and
+>     is 1.9m tall.
+
+    Answer Below
